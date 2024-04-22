@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on my degree..
+🌱 I’m currently learning C and Python
 
 <!--
 **ann-sophiee/ann-sophiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
